@@ -1,7 +1,7 @@
 <a href="https://gouravshaw.vercel.app/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsgourav62/itsgourav62/main/assets/profile-dark.svg?v=3">
-    <img alt="Gourav Shaw — Software Engineer" src="https://raw.githubusercontent.com/itsgourav62/itsgourav62/main/assets/profile-light.svg?v=3" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsgourav62/itsgourav62/main/assets/profile-dark.svg?v=4">
+    <img alt="Gourav Shaw — Software Engineer" src="https://raw.githubusercontent.com/itsgourav62/itsgourav62/main/assets/profile-light.svg?v=4" width="100%">
   </picture>
 </a>
 
@@ -13,9 +13,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsgourav62/itsgourav62/output/pacman-contribution-graph-dark.svg?v=3">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsgourav62/itsgourav62/output/pacman-contribution-graph.svg?v=3">
-    <img alt="Pac-Man playing through my GitHub contribution graph" src="https://raw.githubusercontent.com/itsgourav62/itsgourav62/output/pacman-contribution-graph-dark.svg?v=3" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsgourav62/itsgourav62/output/pacman-contribution-graph-dark.svg?v=4">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsgourav62/itsgourav62/output/pacman-contribution-graph.svg?v=4">
+    <img alt="Pac-Man playing through my GitHub contribution graph" src="https://raw.githubusercontent.com/itsgourav62/itsgourav62/output/pacman-contribution-graph-dark.svg?v=4" width="100%">
   </picture>
 </p>
 
