@@ -1,9 +1,7 @@
-
-
 <a href="https://gouravshaw.vercel.app/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsgourav62/itsgourav62/main/assets/profile-dark.svg">
-    <img alt="Gourav Shaw — Software Engineer" src="https://raw.githubusercontent.com/itsgourav62/itsgourav62/main/assets/profile-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsgourav62/itsgourav62/main/assets/profile-dark.svg?v=3">
+    <img alt="Gourav Shaw — Software Engineer" src="https://raw.githubusercontent.com/itsgourav62/itsgourav62/main/assets/profile-light.svg?v=3" width="100%">
   </picture>
 </a>
 
@@ -13,11 +11,13 @@
   <a href="mailto:shawgourav62@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsgourav62/itsgourav62/main/assets/email-dark.svg"><img alt="Email" width="32%" src="https://raw.githubusercontent.com/itsgourav62/itsgourav62/main/assets/email-light.svg"></picture></a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsgourav62/itsgourav62/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsgourav62/itsgourav62/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man playing through my GitHub contribution graph" src="https://raw.githubusercontent.com/itsgourav62/itsgourav62/output/pacman-contribution-graph.svg" width="100%">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsgourav62/itsgourav62/output/pacman-contribution-graph-dark.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsgourav62/itsgourav62/output/pacman-contribution-graph.svg?v=3">
+    <img alt="Pac-Man playing through my GitHub contribution graph" src="https://raw.githubusercontent.com/itsgourav62/itsgourav62/output/pacman-contribution-graph-dark.svg?v=3" width="100%">
+  </picture>
+</p>
 
 ---
 
