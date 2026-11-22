@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="410" viewBox="0 0 1000 410" role="img" aria-labelledby="title desc">
+<title id="title">Gourav Shaw — Software Engineer</title>
+<desc id="desc">A terminal-inspired developer profile card.</desc>
+<rect width="1000" height="410" rx="14" fill="#ffffff"/>
+<rect x="1" y="1" width="998" height="408" rx="13" fill="none" stroke="#d0d7de"/>
+<rect x="1" y="1" width="998" height="42" rx="13" fill="#f6f8fa"/>
+<path d="M1 30v13h998V30" fill="#f6f8fa"/>
+<circle cx="25" cy="22" r="6" fill="#ff5f56"/><circle cx="47" cy="22" r="6" fill="#ffbd2e"/><circle cx="69" cy="22" r="6" fill="#27c93f"/>
+<g font-family="SFMono-Regular,Consolas,monospace" font-size="15" fill="#57606a">
+<text x="92" y="27">gourav@shaw: ~/profile</text>
+</g>
+<g font-family="SFMono-Regular,Consolas,monospace">
+<text x="42" y="91" font-size="26" font-weight="700" fill="#0969da">gourav@shaw</text>
+<text x="42" y="119" font-size="16" fill="#57606a">-----------------------------------------------</text>
+<text x="42" y="158" font-size="17" fill="#1a7f37">$ whoami</text>
+<text x="42" y="187" font-size="19" font-weight="700" fill="#24292f">Software Engineer · Java Backend</text>
+<text x="42" y="216" font-size="16" fill="#57606a">Product &amp; Platform Engineering  /  Enterprise Banking</text>
+<text x="42" y="264" font-size="17" fill="#1a7f37">$ cat currently_building.txt</text>
+<text x="42" y="292" font-size="16" fill="#24292f">Modernizing enterprise services with Java 21 and Spring Boot.</text>
+<text x="42" y="318" font-size="16" fill="#24292f">Designing REST APIs, strengthening reliability, and writing tested code.</text>
+<text x="42" y="366" font-size="17" fill="#1a7f37">$ tech --core</text>
+<text x="42" y="391" font-size="15" fill="#0969da">Java  ·  Spring Boot  ·  SQL  ·  JUnit  ·  Mockito  ·  Kafka  ·  Docker</text>
+</g>
+</svg>
