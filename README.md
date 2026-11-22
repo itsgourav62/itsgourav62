@@ -60,21 +60,22 @@ Associate Software Engineer | Enterprise Banking Systems
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub BLA
 
-<p align="center">
-
-<img height="180em"
-     src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsgourav62&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img height="180em"
-     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itsgourav62&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=itsgourav62&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/YOU/YOU/output/dark_mode.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/YOU/YOU/output/light_mode.svg"
+  />
+  <img
+    alt="ASCII profile card"
+    src="https://raw.githubusercontent.com/YOU/YOU/output/light_mode.svg"
+  />
+</picture>
 
 ---
 
