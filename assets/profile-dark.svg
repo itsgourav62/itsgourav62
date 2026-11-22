@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="410" viewBox="0 0 1000 410" role="img" aria-labelledby="title desc">
-<title id="title">Gourav Shaw — Software Engineer</title>
-<desc id="desc">A terminal-inspired developer profile card.</desc>
-<rect width="1000" height="410" rx="14" fill="#0d1117"/>
-<rect x="1" y="1" width="998" height="408" rx="13" fill="none" stroke="#30363d"/>
-<rect x="1" y="1" width="998" height="42" rx="13" fill="#161b22"/>
-<path d="M1 30v13h998V30" fill="#161b22"/>
-<circle cx="25" cy="22" r="6" fill="#ff5f56"/><circle cx="47" cy="22" r="6" fill="#ffbd2e"/><circle cx="69" cy="22" r="6" fill="#27c93f"/>
-<g font-family="SFMono-Regular,Consolas,monospace" font-size="15" fill="#8b949e">
-<text x="92" y="27">gourav@shaw: ~/profile</text>
-</g>
-<g font-family="SFMono-Regular,Consolas,monospace">
-<text x="42" y="91" font-size="26" font-weight="700" fill="#79c0ff">gourav@shaw</text>
-<text x="42" y="119" font-size="16" fill="#8b949e">-----------------------------------------------</text>
-<text x="42" y="158" font-size="17" fill="#7ee787">$ whoami</text>
-<text x="42" y="187" font-size="19" font-weight="700" fill="#c9d1d9">Software Engineer · Java Backend</text>
-<text x="42" y="216" font-size="16" fill="#8b949e">Product &amp; Platform Engineering  /  Enterprise Banking</text>
-<text x="42" y="264" font-size="17" fill="#7ee787">$ cat currently_building.txt</text>
-<text x="42" y="292" font-size="16" fill="#c9d1d9">Modernizing enterprise services with Java 21 and Spring Boot.</text>
-<text x="42" y="318" font-size="16" fill="#c9d1d9">Designing REST APIs, strengthening reliability, and writing tested code.</text>
-<text x="42" y="366" font-size="17" fill="#7ee787">$ tech --core</text>
-<text x="42" y="391" font-size="15" fill="#79c0ff">Java  ·  Spring Boot  ·  SQL  ·  JUnit  ·  Mockito  ·  Kafka  ·  Docker</text>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430" role="img" aria-labelledby="title desc">
+<title id="title">Gourav Shaw — Java Backend Engineer</title><desc id="desc">Terminal-inspired developer profile card with a Java coffee cup and backend engineering profile.</desc>
+<rect width="1000" height="430" rx="14" fill="#0d1117"/><rect x="1" y="1" width="998" height="428" rx="13" fill="none" stroke="#30363d"/>
+<g font-family="Consolas,Menlo,monospace" font-size="15" fill="#8b949e"><text x="28" y="34">gourav@shaw</text><text x="28" y="58">──────────────────────────────────────────</text></g>
+<g font-family="Consolas,Menlo,monospace" font-size="16" fill="#f0883e">
+<text x="42" y="116">       (  )   (   )</text><text x="42" y="139">        ) (   ) (</text><text x="42" y="162">      _________</text><text x="42" y="185">     |         |]</text><text x="42" y="208">     |  JAVA   |</text><text x="42" y="231">     |_________|</text><text x="42" y="254">       \_______/</text></g>
+<g font-family="Consolas,Menlo,monospace" font-size="14" fill="#8b949e"><text x="35" y="316">backend.engineering()</text><text x="35" y="341">---------------------</text><text x="35" y="371" fill="#a5d6ff">build  •  test  •  ship</text></g>
+<path d="M390 26V404" stroke="#30363d"/>
+<g font-family="Consolas,Menlo,monospace">
+<text x="425" y="48" font-size="22" font-weight="700" fill="#f0883e">gourav@shaw ~ %</text><text x="425" y="76" font-size="14" fill="#8b949e">------------------------------------------------------------</text>
+<text x="425" y="111" font-size="16" fill="#7ee787">$ whoami</text><text x="425" y="138" font-size="18" font-weight="700" fill="#c9d1d9">Software Engineer · Java Backend</text>
+<text x="425" y="162" font-size="15" fill="#a5d6ff">Engineer, Product &amp; Platform Engineering @ Altimetrik</text>
+<text x="425" y="194" font-size="16" fill="#7ee787">$ experience --domain</text><text x="425" y="220" font-size="15" fill="#c9d1d9">2+ years building enterprise banking backend systems</text><text x="425" y="243" font-size="15" fill="#8b949e">Java modernization · REST APIs · secure integrations</text>
+<text x="425" y="275" font-size="16" fill="#7ee787">$ focus --engineering</text><text x="425" y="301" font-size="15" fill="#c9d1d9">Java 21 · Spring Boot · SQL · JUnit / Mockito</text><text x="425" y="324" font-size="15" fill="#c9d1d9">Kafka · ActiveMQ / IBM MQ · Docker · Jenkins</text>
+<text x="425" y="356" font-size="16" fill="#7ee787">$ currently_learning</text><text x="425" y="382" font-size="15" fill="#a5d6ff">System Design · Distributed Systems · Agentic AI / MCP</text><text x="425" y="411" font-size="14" fill="#8b949e">Kolkata, India  ·  Backend engineering</text>
+</g></svg>
