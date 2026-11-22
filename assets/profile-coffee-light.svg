@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1000" height="430" viewBox="0 0 1000 430" role="img" aria-labelledby="title desc">
+<title id="title">Gourav Shaw — terminal coffee cup and developer profile</title><desc id="desc">A steaming ASCII coffee cup labelled JAVA beside Gourav's Java backend engineering profile.</desc>
+<rect width="1000" height="430" rx="14" fill="#ffffff"/><rect x="1" y="1" width="998" height="428" rx="13" fill="none" stroke="#d0d7de"/>
+<g font-family="Consolas,Menlo,monospace" font-size="15" fill="#57606a"><text x="28" y="34">gourav@shaw</text><text x="28" y="58">──────────────────────────────────────────</text></g>
+<g font-family="Consolas,Menlo,monospace" font-size="17" font-weight="600">
+<text x="118" y="112" fill="#57606a"> (  )  (  )</text>
+<text x="118" y="135" fill="#bc4c00">  (  ) (  )</text>
+<text x="118" y="166" fill="#bc4c00">   .--------.</text>
+<text x="118" y="190" fill="#bc4c00">   |  ))))  |</text>
+<text x="118" y="214" fill="#bc4c00">   |  JAVA  |</text>
+<text x="118" y="238" fill="#bc4c00">   |        |</text>
+<text x="118" y="262" fill="#bc4c00">   '--------'</text>
+<text x="118" y="286" fill="#bc4c00">    \______/</text>
+<text x="118" y="330" fill="#57606a" font-size="13">backend.engineering()</text>
+<text x="118" y="355" fill="#0550ae" font-size="13">build  •  test  •  ship</text>
+</g>
+
+<path d="M390 26V404" stroke="#d0d7de"/>
+<g font-family="Consolas,Menlo,monospace">
+<text x="425" y="48" font-size="22" font-weight="700" fill="#bc4c00">gourav@shaw ~ %</text><text x="425" y="76" font-size="14" fill="#57606a">------------------------------------------------------------</text>
+<text x="425" y="111" font-size="16" fill="#1a7f37">$ whoami</text><text x="425" y="138" font-size="18" font-weight="700" fill="#24292f">Software Engineer · Java Backend</text>
+<text x="425" y="162" font-size="15" fill="#0550ae">Engineer, Product &amp; Platform Engineering @ Altimetrik</text>
+<text x="425" y="194" font-size="16" fill="#1a7f37">$ experience --domain</text><text x="425" y="220" font-size="15" fill="#24292f">2+ years building enterprise banking backend systems</text><text x="425" y="243" font-size="15" fill="#57606a">Java modernization · REST APIs · secure integrations</text>
+<text x="425" y="275" font-size="16" fill="#1a7f37">$ focus --engineering</text><text x="425" y="301" font-size="15" fill="#24292f">Java 21 · Spring Boot · SQL · JUnit / Mockito</text><text x="425" y="324" font-size="15" fill="#24292f">Kafka · ActiveMQ / IBM MQ · Docker · Jenkins</text>
+<text x="425" y="356" font-size="16" fill="#1a7f37">$ currently_learning</text><text x="425" y="382" font-size="15" fill="#0550ae">System Design · Distributed Systems · Agentic AI / MCP</text><text x="425" y="411" font-size="14" fill="#57606a">Kolkata, India  ·  Backend engineering</text>
+</g></svg>
