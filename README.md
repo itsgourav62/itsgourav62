@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itsgourav62/itsgourav62/main/assets/avatar.jpg" alt="Gourav Shaw" width="140" />
-</p>
-
 <a href="https://gouravshaw.vercel.app/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsgourav62/itsgourav62/main/assets/profile-dark.svg">
